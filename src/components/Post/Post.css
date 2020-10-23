@@ -1,0 +1,19 @@
+.post {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 px 7px -7px rgba(0, 0, 0, 0.76);
+}
+.post__top {
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding: 15px;
+}
+.post__image > img {
+  width: 100%;
+}
+.post__avatar {
+  margin-right: 10px;
+}
